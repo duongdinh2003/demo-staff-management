@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/demo-staff-management/static/css/main.76f3225b.css",
+    "main.js": "/demo-staff-management/static/js/main.eb05e487.js",
+    "static/js/453.ee5296e6.chunk.js": "/demo-staff-management/static/js/453.ee5296e6.chunk.js",
+    "static/media/background.avif": "/demo-staff-management/static/media/background.ceefd27073c2562760dd.avif",
+    "static/media/group-manage.png": "/demo-staff-management/static/media/group-manage.68c58528f82db089f650.png",
+    "index.html": "/demo-staff-management/index.html",
+    "main.76f3225b.css.map": "/demo-staff-management/static/css/main.76f3225b.css.map",
+    "main.eb05e487.js.map": "/demo-staff-management/static/js/main.eb05e487.js.map",
+    "453.ee5296e6.chunk.js.map": "/demo-staff-management/static/js/453.ee5296e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76f3225b.css",
+    "static/js/main.eb05e487.js"
+  ]
+}
